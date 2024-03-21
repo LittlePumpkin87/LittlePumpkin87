@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LittlePumpkin87
 - 👀 I’m interested in working on Frontend Projects and Design
-- 🌱 I’m currently learning Javascript, Angular and React
+- 🌱 I’m currently learning Javascript, Vue.js and React
 
 <!---
 LittlePumpkin87/LittlePumpkin87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
